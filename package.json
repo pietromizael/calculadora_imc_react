@@ -1,6 +1,7 @@
 {
   "name": "calculadora_imc",
   "private": true,
+  "homepage": "https://pietromizael.github.io/imc_calculator_react",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
